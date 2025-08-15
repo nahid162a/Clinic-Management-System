@@ -173,7 +173,7 @@ void undoLastAction()
     pop();
 }
 
-void showMenu()
+void Menu()
 {
     printf("\n  Clinic Management System    \n");
     printf("1. Register a new Doctor\n");
@@ -195,7 +195,7 @@ int main()
 
     while (1)
     {
-        showMenu();
+        Menu();
         scanf("%d", &choice);
 
         if (choice == 1)
@@ -245,5 +245,6 @@ int main()
 
     return 0;
 }
+
 
 
