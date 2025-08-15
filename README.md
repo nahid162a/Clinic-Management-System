@@ -1,1 +1,1 @@
-This is a very short and CLI based Clinic Management System.
+This is a very basic and short and CLI based Clinic Management System.
