@@ -1,3 +1,12 @@
+/*-----------------------------------------------------------------------
+        CLINIC MANAGEMENT SYSTEM
+        STUDENT: Md. Nahidul Alam Talukder
+        Student Id: 0242310005341162
+        COURSE: Data Structures Lab
+        Course Title: 132
+        LAB FINAL : Summer 2025
+   --------------------------------------------------------------------
+   ------------------------------------------------------------------------ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -227,4 +236,5 @@ int main() {
 
     return 0;
 }
+
 
